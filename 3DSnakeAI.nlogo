@@ -1,15 +1,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                     CMP2020-2324 Snake game                            ;;
-;;                                                                        ;;
-;; If you find any bugs or need help with Netlogo, contact the module     ;;
-;;  delivery team (e.g. by posting a message on blackboard).              ;;
 ;;                                                                        ;;
 ;; This model was based on:                                               ;;
 ;;  Brooks, P. (2020) Snake-simple. Stuyvesant High School. Avaliable
 ;;  from http://bert.stuy.edu/pbrooks/fall2020/materials/intro-year-1/Snake-simple.html
 ;;    [accessed 16 November 2023].                                        ;;
-;;                                                                        ;;
-;; Don't forget to appropriately reference the resources you use!         ;;
 ;;                                                                        ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
